@@ -1,0 +1,6 @@
+debian/.debhelper/
+debian/files
+debian/gnome-shell-mousewheel-zoom.debhelper.log
+debian/gnome-shell-mousewheel-zoom.substvars
+debian/gnome-shell-mousewheel-zoom/
+
